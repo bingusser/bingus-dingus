@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>toaster dude's osu skins</title>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+      }
+      h1 {
+        font-size: 2em;
+        text-align: center;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      li {
+        margin: 10px;
+        padding: 10px;
+        border: 2px solid white;
+        border-radius: 10px;
+        text-align: center;
+        width: 200px;
+      }
+      li a {
+        color: white;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>nyan5000's osu! Skins</h1>
+    <ul>
+      <li><a href="https://nyan5000.s-ul.eu/vKtIH73a">lowbudget</a></li>
+      <li><a href="https://nyan5000.s-ul.eu/7VZMD5UQ">name pending</a></li>
+      <!-- Add more skins here as needed -->
+    </ul>
